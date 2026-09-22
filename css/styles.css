@@ -14,7 +14,7 @@
   margin-bottom: 2px;
 }
 
-#interest-hobbies-skills {
+.skill {
   background-color: yellow;
 }
 
@@ -31,7 +31,10 @@ img {
 }
 
 .sidebar {
-  float: left;
-  border: 1px solid black;
-  padding: 1px;
+  float: right;
+  border: 2px solid black;
+  padding: 15px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  width: 25%;
 }
