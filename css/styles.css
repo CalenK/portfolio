@@ -4,22 +4,19 @@
   padding: 2px; 
 }
 
-#projects {
-  background-color: yellow;
-}
-
 .card-body1 {
   border: 3px solid black;
   padding: 2px;
   margin-bottom: 2px;
+  background-color: #f8481c;
 }
 
-.skill {
+#skill-highlight {
   background-color: yellow;
 }
 
 .card-body2 {
-  border: 2px solid black;
+  border: 3px solid black;
   padding: 2px;
   margin-top: 2px;
   float: left;
@@ -30,11 +27,18 @@ img {
   padding: 2px;
 }
 
-.sidebar {
+.card-body3 {
   float: right;
-  border: 2px solid black;
-  padding: 15px;
-  margin-top: 8px;
-  margin-bottom: 8px;
-  width: 25%;
+  border: 3px solid black;
+  padding: 2px;
+  margin-top: 2px;
+  background-color: gray;
+}
+
+.interest {
+  background-color: yellowgreen;
+}
+
+.hobby {
+  background-color: yellowgreen;
 }
