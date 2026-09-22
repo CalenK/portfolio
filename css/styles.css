@@ -1,0 +1,37 @@
+.jumbotron {
+  background-color: blue;
+  border: 3px solid black;
+  padding: 2px; 
+}
+
+#projects {
+  background-color: yellow;
+}
+
+.card-body1 {
+  border: 3px solid black;
+  padding: 2px;
+  margin-bottom: 2px;
+}
+
+#interest-hobbies-skills {
+  background-color: yellow;
+}
+
+.card-body2 {
+  border: 2px solid black;
+  padding: 2px;
+  margin-top: 2px;
+  float: left;
+}
+
+img {
+  border: 3px solid black;
+  padding: 2px;
+}
+
+.sidebar {
+  float: left;
+  border: 1px solid black;
+  padding: 1px;
+}
