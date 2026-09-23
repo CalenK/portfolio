@@ -13,7 +13,7 @@
 ---
 ## _Description_
 
-_This is my programming portfolio featuring a list of some of my work and some things about me._
+_This is my programming portfolio featuring a list of some of my work and some things about me._ _https://calenk.github.io/portfolio/_
 ---
 ## _Setup/Installation Requirements_
 * Go to Github repository.
